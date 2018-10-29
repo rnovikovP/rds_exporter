@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/percona/rds_exporter.svg?branch=master)](https://travis-ci.org/percona/rds_exporter)
 [![Go Report Card](https://goreportcard.com/badge/github.com/percona/rds_exporter)](https://goreportcard.com/report/github.com/percona/rds_exporter)
 [![CLA assistant](https://cla-assistant.io/readme/badge/percona/rds_exporter)](https://cla-assistant.io/percona/rds_exporter)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FrnovikovP%2Frds_exporter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FrnovikovP%2Frds_exporter?ref=badge_shield)
 
 An [AWS CloudWatch](http://aws.amazon.com/cloudwatch/) exporter for [Prometheus](https://github.com/prometheus/prometheus) coded in Go, with multi-region and dynamic target support.
 Based on [Technofy/cloudwatch_exporter](https://github.com/Technofy/cloudwatch_exporter).
@@ -140,3 +141,7 @@ This exporter is still in its early stages! It still lacks the `dimensions_selec
 This exporter is largely inspired by the [official CloudWatch Exporter](https://github.com/prometheus/cloudwatch_exporter) and we'd like to thank all the contributors who participated to the original project.
 
 This project is licensed under the [Apache 2.0 license](https://github.com/Technofy/cloudwatch_exporter/blob/master/LICENSE).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FrnovikovP%2Frds_exporter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FrnovikovP%2Frds_exporter?ref=badge_large)
